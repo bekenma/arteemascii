@@ -1,0 +1,12 @@
+print("Parabéns" + "!" * 10)
+print('''
+Aqui vai um dinossauro
+              __
+             / _)       
+     ._^^^__/  /
+  ___/        /
+ <   .       /
+  --- |_|-|_|
+
+ Dinossauros não gostam de bolo.....
+''')
