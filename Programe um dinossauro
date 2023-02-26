@@ -8,5 +8,13 @@ Aqui vai um dinossauro
  <   .       /
   --- |_|-|_|
 
- Dinossauros não gostam de bolo.....
 ''')
+print('E aqui vai um bolo! ' + 'hu' + 'm' * 10)
+
+print('.' * 20)
+print('i' * 20)
+print('#' * 20)
+print('=' * 20)
+print('#' * 20)
+print('=' * 20)
+print('#' * 20)
